@@ -1,36 +1,9 @@
-MERN STACK TASK 2
+🎬 Movie App
+A React-based movie application that fetches real-time movie data from the IMDb API. Users can browse trending movies, search for films, and view detailed movie information.
 
-# React Movie App - ReactJS Projects
-
-![](movie.gif)
-
-### Demo - Deployed over Github Pages 
-
-
-
-
-### APIs Used
-[The Open Movie Database APIs](http://www.omdbapi.com/)
-
-Generate API key from : http://www.omdbapi.com/apikey.aspx
-
-### API Info
-* Method: `GET`
-* Search URL: `https://www.omdbapi.com/?s={MOVIE_NAME}&apikey={API_KEY}`
-* Movie Details URL: `https://www.omdbapi.com/?i={MOVIE_ID}&apikey={API_KEY}`
-
-
-### Libraries used
-* `styled-components`
-* `axios`
-* `react-scripts`
-=======
-
-
-Screenshots :-
-
-![Screenshot 2025-01-25 223415](https://github.com/user-attachments/assets/acebb261-d8cb-413f-aadb-558af3035911)
-
-![Screenshot 2025-01-25 223431](https://github.com/user-attachments/assets/04be736a-64eb-490d-bbe5-7edd618c9088)
-
-
+🚀 Features
+✅ Display trending/popular movies
+✅ Search movies by title
+✅ View movie details (overview, release date, ratings, etc.)
+✅ Responsive design for mobile and desktop
+✅ Interactive UI with smooth navigation
